@@ -9,5 +9,9 @@ public class Principal {
         System.out.println(":o");
         System.out.println(":o");
         System.out.println(":o");
+        
+        System.out.println("Hello there");
+        System.out.println("Hello there");
+        System.out.println("Hello there");
     }
 }
