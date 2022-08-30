@@ -6,5 +6,8 @@ public class Principal {
         System.out.println(saludo);
         System.out.println(":o");
         System.out.println(":o");
+        System.out.println(":o");
+        System.out.println(":o");
+        System.out.println(":o");
     }
 }
